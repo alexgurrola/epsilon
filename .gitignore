@@ -65,6 +65,11 @@ typings/
 
 # Deployed Versions
 package-lock.json
+yarn.lock
 
 # Datasources
 src/datasources/*.datasource.json
+
+# IDEA Project
+.idea/
+.idea/*
